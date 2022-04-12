@@ -1,0 +1,9 @@
+# ignore data
+data/clean
+data/raw
+
+# ignore cache
+__pycache__
+
+# avoid big size file
+bert_cpu.pkl
