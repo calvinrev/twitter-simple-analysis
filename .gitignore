@@ -6,4 +6,4 @@ data/raw
 __pycache__
 
 # avoid big size file
-bert_cpu.pkl
+# bert_cpu.pkl
